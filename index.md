@@ -5,7 +5,7 @@
 permalink: /
 title: About
 longtitle: Explaining Vision and Language Models — A Concept-Based Approach
-subtitle: Tutorial @ ECAI 2025
+subtitle: Tutorial @ KI2026
 layout: home
 toc: false
 ---
@@ -18,6 +18,8 @@ which methods from **explainable artificial intelligence (XAI)** are ready at ha
 to gain insights into computer vision and language models.
 Our technical deep dive will highlight emerging **concept-based explainability** techniques ([C-XAI](https://arxiv.org/abs/2409.13456)),
 followed by a practical session including a discussion of participant-contributed use-cases.
+
+*This is a second edition of the successful [C-XAI tutorial at ECAI2025](https://github.com/gesina/c-xai-tutorial).*
 
 
 ## An Overview
@@ -54,13 +56,13 @@ DNNs which can help to find out biases.
 This knowledge is deepened by a practical exercise part that aims to transfer the provided guidelines to real-world problems.
 
 ## Organizational
-The tutorial will take place as part of the [European Conference on Artificial Intelligence 2025 (ECAI2025)](https://ecai2025.eu), Oct 26, 2025, Bologna, Italy.
+The tutorial will take place in presence as part of the [49th German Conference on Artificial Intelligence](https://ki2026.gi.de), Aug 11–14, 2026, Bremen, Germany.
 
-- **When:** Oct 26 (afternoon), 2025
-- **Where:** Bologna, Italy. Check out the [ECAI2025 venues](https://ecai2025.org/venues/).
-- **Format:** half-day tutorial at ECAI2025 both with lecture and practical parts.
+- **When:** Aug 11 or 12, 2026 (details tba)
+- **Where:** Bremen, Germany. See the [KI2026 homepage](https://ki2026.gi.de).
+- **Format:** half-day tutorial at KI2026 both with lecture and practical parts.
 - **Target audience**: We target both **researchers and practitioners** seeking to integrate explainability into their work.
 - **Prerequisites:** Some basic knowledge about deep learning will be required; experience with pytorch will be helpful for the practical part, but not required.  
   **Both novices and experts** are welcome to join.
-- **What to bring:** Feel free to bring and share your  explainability problem during the discussion part.
+- **What to bring:** Feel free to bring and share your explainability problem during the discussion part.
 

@@ -5,4 +5,4 @@ permalink: /contactus/
 ---
 
 In case of any questions, please contact
-[gesina.schwalbe@uni-luebeck.de](mailto:gesina.schwalbe@uni-luebeck.de).
+[gesina.schwalbe@uni-ulm.de](mailto:gesina.schwalbe@uni-ulm.de).

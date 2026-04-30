@@ -1,5 +1,11 @@
 The MIT License (MIT)
 
+Copyright (c) 2026-present Gesina Schwalbe and Jae Hee Lee
+
+Based on the jekyll workshop theme created by Krishna Murthy Jatavallabhula. Licenses reproduced below.
+
+===========================================================
+
 Copyright (c) 2021-present Krishna Murthy Jatavallabhula
 
 Based on the jekyll minima theme. License reproduced below.
