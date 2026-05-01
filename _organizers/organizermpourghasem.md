@@ -1,6 +1,6 @@
 ---
 # Name of the organizer
-name: Mahdi Pourghasem
+name: M. Mahdi Pourghasem
 
 # Link to the organizer's webpage
 webpage: https://www.isp.uni-luebeck.de/staff/mahdipourghasem
@@ -27,6 +27,7 @@ img: mpourghasem.png
 
 <!-- Add your bio here -->
 
-In July 2025 Mahdi Pourghasem has joined as a PhD student the junior research group [Correctable Hybrid Artificial Intelligence (chAI)](https://isp.uni-luebeck.de/chai) lead by Jun.-Prof. Gesina Schwalbe.
+M. Mahdi Pourghasem joined the junior research group Correctable Hybrid Artificial Intelligence (chAI)
+, led by Jun.-Prof. Gesina Schwalbe, as a PhD student in July 2025.
+
 His research focuses on developing artificial intelligence systems that combine symbolic reasoning with data-driven approaches, with an emphasis on transparency, adaptability, and human-in-the-loop correction.
- 
