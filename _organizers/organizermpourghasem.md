@@ -27,7 +27,8 @@ img: mpourghasem.png
 
 <!-- Add your bio here -->
 
-M. Mahdi Pourghasem joined the junior research group  [Correctable Hybrid Artificial Intelligence (chAI)](https://isp.uni-luebeck.de/chai)
-, led by Jun.-Prof. Gesina Schwalbe, as a PhD student in July 2025.
+M. Mahdi Pourghasem is a PhD student at the University of Lübeck, where he has been working since July 2025. He is a member of the Junior Research Group [Correctable Hybrid Artificial Intelligence (chAI)](https://isp.uni-luebeck.de/chai), led by [Jun.-Prof. Gesina Schwalbe](https://gesina.github.io).
 
-His research focuses on developing artificial intelligence systems that combine symbolic reasoning with data-driven approaches, with an emphasis on transparency, adaptability, and human-in-the-loop correction.
+His research interests lie in **neuro-symbolic AI**, with a focus on developing artificial intelligence systems that combine deep learning with symbolic reasoning. He is especially interested in learning structured relational and knowledge representations under weak or sparse supervision.
+
+More broadly, his work investigates how symbolic reasoning can guide neural representation learning and improve the reliability, interpretability, and formal guarantees of AI systems. He is particularly interested in rule injection methods, such as using symbolic constraints as semantic losses during learning.
